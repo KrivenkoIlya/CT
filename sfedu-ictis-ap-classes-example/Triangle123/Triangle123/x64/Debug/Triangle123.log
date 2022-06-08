@@ -1,0 +1,3 @@
+﻿  Triangle123.cpp
+C:\Users\Илья\Desktop\sfedu-ictis-ap-classes-example\Triangle123\Triangle123\Triangle123.cpp(48,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Triangle123.vcxproj -> C:\Users\Илья\Desktop\sfedu-ictis-ap-classes-example\Triangle123\x64\Debug\Triangle123.exe
